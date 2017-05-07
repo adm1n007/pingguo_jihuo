@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;http2&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../github.com" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../spew" />
+      <root url="file://$PROJECT_DIR$/../../../plistlib" />
+      <root url="file://$PROJECT_DIR$/../../../goqml" />
+      <root url="file://$PROJECT_DIR$/../../../tools" />
+      <root url="file://$PROJECT_DIR$/../../../ituneslib" />
+      <root url="file://$PROJECT_DIR$/../.." />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../github.com" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../spew" />
+      <root url="file://$PROJECT_DIR$/../../../plistlib" />
+      <root url="file://$PROJECT_DIR$/../../../goqml" />
+      <root url="file://$PROJECT_DIR$/../../../tools" />
+      <root url="file://$PROJECT_DIR$/../../../ituneslib" />
+      <root url="file://$PROJECT_DIR$/../.." />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>

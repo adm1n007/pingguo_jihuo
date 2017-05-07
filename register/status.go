@@ -1,0 +1,31 @@
+﻿package register
+
+const (
+    SIGNUP_SUCCESS              = 0
+    SIGNUP_BANNED               = 1
+    SIGNUP_EXISTS               = 2
+    SIGNUP_FAILED               = 3
+    SIGNUP_PROXY_DISCONNECTED   = 4
+    SIGNUP_SUBPROCESS_BROKEN    = 5
+    SIGNUP_WANT_RETRY           = 6
+    SIGNUP_NETWORK_ERROR        = 7
+    SIGNUP_DEBUG                = -1
+
+    SIGNUP_PASSWORD_TOO_SIMPLE  = 1000
+    SIGNUP_EMAIL_INVALID        = 1001
+)
+
+var signupResultText = map[int]string{
+    SIGNUP_SUCCESS              : "SIGNUP_SUCCESS",
+    SIGNUP_BANNED               : "SIGNUP_BANNED",
+    SIGNUP_EXISTS               : "SIGNUP_EXISTS",
+    SIGNUP_FAILED               : "SIGNUP_FAILED",
+    SIGNUP_PROXY_DISCONNECTED   : "SIGNUP_PROXY_DISCONNECTED",
+    SIGNUP_SUBPROCESS_BROKEN    : "SIGNUP_SUBPROCESS_BROKEN",
+    SIGNUP_WANT_RETRY           : "SIGNUP_WANT_RETRY",
+    SIGNUP_NETWORK_ERROR        : "SIGNUP_NETWORK_ERROR",
+    SIGNUP_DEBUG                : "SIGNUP_DEBUG",
+
+    SIGNUP_PASSWORD_TOO_SIMPLE  : "SIGNUP_PASSWORD_TOO_SIMPLE",
+    SIGNUP_EMAIL_INVALID        : "SIGNUP_EMAIL_INVALID",
+}

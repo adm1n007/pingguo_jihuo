@@ -1,0 +1,46 @@
+{
+    "MaxRegisterWorkers": 1,
+    "MaxActivatorWorkers": 1,
+    
+    "MaxProxys": 1,
+
+    "TotalProcess": 1,
+    "CurrentProcess": 1,
+    "Mail": "163",
+    "UseSocks5Proxy": true,
+    "MaxProxyReuseTimes": 100000000,
+
+    "Register": {
+        "RegisterAlive": 75,
+        "RetryOnFailure": 3,
+        "VerifyApppleIdDelay": 40,
+	"VerifyApppleIdDelayiOS": 36
+    },
+
+    "Activator": {
+        "ActivateDelay": 2,
+        "ActivatorAlive": 20
+    },
+
+    "Proxy": {
+        "Port": 28888,
+		"Socks5Port": 8880,
+        "User": "mpxy",
+        "Password": "pp25pp",
+        "MinimumAlive": 90
+    },
+
+    "ProxyServer": {	
+        "Host": "127.0.0.1",
+        "Port": 61021,
+        "Port2": 61022,
+		"Url": "http://ipserver.lakatv.com:8004"
+    },
+    "Database": {
+        "Host": "rm-wz9876ww72d7h7l9o.mysql.rds.aliyuncs.com",
+        "Port": 3306,
+        "User": "ipserver",
+        "Password": "On6Pgw9u0oakgMWe",
+        "db": "aso"
+    }
+}

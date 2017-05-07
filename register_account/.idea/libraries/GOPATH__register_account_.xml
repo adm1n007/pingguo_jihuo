@@ -1,0 +1,61 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;register_account&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../melody" />
+      <root url="file://$PROJECT_DIR$/../packet" />
+      <root url="file://$PROJECT_DIR$/../sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/../.git" />
+      <root url="file://$PROJECT_DIR$/../register" />
+      <root url="file://$PROJECT_DIR$/../register_account_bak" />
+      <root url="file://$PROJECT_DIR$/../ituneslib" />
+      <root url="file://$PROJECT_DIR$/../ml" />
+      <root url="file://$PROJECT_DIR$/../entry" />
+      <root url="file://$PROJECT_DIR$/../lakatv.com" />
+      <root url="file://$PROJECT_DIR$/../globals" />
+      <root url="file://$PROJECT_DIR$/../proxy" />
+      <root url="file://$PROJECT_DIR$/../utility" />
+      <root url="file://$PROJECT_DIR$/../goqml" />
+      <root url="file://$PROJECT_DIR$/../plistlib" />
+      <root url="file://$PROJECT_DIR$/../activator" />
+      <root url="file://$PROJECT_DIR$/../account" />
+      <root url="file://$PROJECT_DIR$/../test" />
+      <root url="file://$PROJECT_DIR$/../unlocker" />
+      <root url="file://$PROJECT_DIR$/../htmlutils" />
+      <root url="file://$PROJECT_DIR$/../mailmaster" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../melody" />
+      <root url="file://$PROJECT_DIR$/../packet" />
+      <root url="file://$PROJECT_DIR$/../sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/../.git" />
+      <root url="file://$PROJECT_DIR$/../register" />
+      <root url="file://$PROJECT_DIR$/../register_account_bak" />
+      <root url="file://$PROJECT_DIR$/../ituneslib" />
+      <root url="file://$PROJECT_DIR$/../ml" />
+      <root url="file://$PROJECT_DIR$/../entry" />
+      <root url="file://$PROJECT_DIR$/../lakatv.com" />
+      <root url="file://$PROJECT_DIR$/../globals" />
+      <root url="file://$PROJECT_DIR$/../proxy" />
+      <root url="file://$PROJECT_DIR$/../utility" />
+      <root url="file://$PROJECT_DIR$/../goqml" />
+      <root url="file://$PROJECT_DIR$/../plistlib" />
+      <root url="file://$PROJECT_DIR$/../activator" />
+      <root url="file://$PROJECT_DIR$/../account" />
+      <root url="file://$PROJECT_DIR$/../test" />
+      <root url="file://$PROJECT_DIR$/../unlocker" />
+      <root url="file://$PROJECT_DIR$/../htmlutils" />
+      <root url="file://$PROJECT_DIR$/../mailmaster" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
